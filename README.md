@@ -1,1 +1,1 @@
-# ecco-spring-simple-dist
+# ecco-bag-dist
